@@ -1,0 +1,45 @@
+body{
+    background-image: url('fon.jpg');
+    background-size: cover;
+    
+}
+
+.titulo{
+    margin-top: 5%;
+    color: white;
+    
+}
+
+.btn-secondary{
+    margin: 5px;
+}
+
+.info{
+    /* margin-bottom: 80px; */
+    color: white;
+  
+}
+.head{
+    background-color: brown;
+    height: 70px;
+    box-shadow: 2px 2px 15px 0 black;
+}
+
+.footer {
+    background-color:#a52a2a;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+    /* box-shadow: 5px 5px 10px 5px black; */
+  }
+
+  .con{
+    box-shadow: 2px 2px 15px 0 black;
+    padding-bottom: 10px;
+  }
+
+  .botones{
+      margin-top: 30px;
+  }
