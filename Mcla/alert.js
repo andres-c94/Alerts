@@ -35,6 +35,48 @@ function alerta2(){
 
 }
 
+
+function alerta4(){
+
+    Swal.fire({
+
+        text: "Este no es, pero para que sepas, me encantan tus besos!",
+        confirmButtonText:"cerrar",
+        //background:"#fa8fb1",
+        showConfirmButton: true,
+        confirmButtonColor:'#a52a2a',
+        imageWidth:'50px',
+        //imageUrl,
+        icon:'error'
+    
+        
+    });
+
+
+}
+
+function alerta5(){
+
+    Swal.fire({
+
+        text: "Este tampoco es...pero, No me acostumbro a estar sin ti",
+        confirmButtonText:"cerrar",
+        //background:"#fa8fb1",
+        showConfirmButton: true,
+        confirmButtonColor:'#a52a2a',
+        imageWidth:'50px',
+        //imageUrl,
+        icon:'error'
+    
+        
+    });
+
+
+}
+
+
+
+
 function alerta3(){
 
     Swal.fire({
