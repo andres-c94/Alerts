@@ -39,8 +39,8 @@ function alerta2(){
 function alerta4(){
 
     Swal.fire({
-
-        text: "Este no es, pero para que sepas, me encantan tus besos!",
+        title: "No es pero:",
+        text: "Me encantan tus besos!",
         confirmButtonText:"cerrar",
         //background:"#fa8fb1",
         showConfirmButton: true,
@@ -59,7 +59,8 @@ function alerta5(){
 
     Swal.fire({
 
-        text: "Este tampoco es...pero, No me acostumbro a estar sin ti",
+        title: "Tampoco es pero:",
+        text: "Me encata como te mueves ;)",
         confirmButtonText:"cerrar",
         //background:"#fa8fb1",
         showConfirmButton: true,
